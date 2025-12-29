@@ -1,2 +1,2 @@
-# manual_switch
- Manual switches for digital inputs
+# manual_TTL
+ Manual generator for TTL singals
